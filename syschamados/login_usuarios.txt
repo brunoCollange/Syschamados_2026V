@@ -1,0 +1,7 @@
+Permissão de ADMINISTRADOR:
+usuário: admin
+senha: admin
+
+Permissão de USUÁRIO:
+usuário: user
+senha: user
